@@ -1,0 +1,54 @@
+body {
+    margin: 0;
+    /* background-color: cornflowerblue ; */
+    font-family: 'Poppins', sans-serif;
+}
+
+.wrapper {
+    margin-left: 5%;
+    margin-right: 5%;
+    /* background-color:red; */
+}
+
+.arrnge-left {
+    float: left;
+}
+
+.wid-25 {
+    width: 25%;
+}
+
+.wid-50 {
+    width: 50%;
+}
+
+.wid-75 {
+    width: 75%;
+}
+
+.next-row {
+    clear: both;
+    margin: 5%;
+}
+
+
+.comman-btn {
+    height: 35px;
+    border: 1px solid #ddd;
+    border-radius: 0;
+    background-color: #fff;
+    min-width: 50px;
+    text-align: center;
+    color: #d19c97;
+    margin-right: 10px;
+}
+
+.comman-btn span {
+    font-size: 16px;
+    font-weight: 800;
+}
+
+.comman-btn span i {
+    margin-right: 5px;
+    margin-left: 5px;
+} 
